@@ -1,9 +1,9 @@
 
 
 #EXTINF:-1,r740_test_ch1
-http://10.0.11.9:1935/r740/ch1.stream_720p/playlist.m3u8
+http://10.0.11.9:1935/r740/ch1.stream_1080p/playlist.m3u8
 #EXTINF:-1,r740_test_ch2
-http://10.0.11.9:1935/r740/ch2.stream_720p/playlist.m3u8
+http://10.0.11.9:1935/r740/ch2.stream_1080p/playlist.m3u8
 #EXTINF:-1,nbt
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 #EXTINF:-1,Transcoder1_freetv
