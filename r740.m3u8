@@ -6,7 +6,12 @@ http://10.0.11.9:1935/r740/ch1.stream_720p/playlist.m3u8
 http://10.0.11.9:1935/r740/ch2.stream_720p/playlist.m3u8
 #EXTINF:-1,Transcoder1_freetv
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
-#EXTINF:-1,Test_r740_online/720
+#EXTINF:-1,Test_r740_ch1/720
 https://edge2a.v2h-cdn.com/test-r740/ch1_720/playlist.m3u8
-#EXTINF:-1,Test_r740_online/1080
+#EXTINF:-1,Test_r740_ch1/1080
 https://edge2a.v2h-cdn.com/test-r740/ch1_1080/playlist.m3u8
+#EXTINF:-1,Test_r740_ch2/720
+https://edge2a.v2h-cdn.com/test-r740/ch2_720/playlist.m3u8
+#EXTINF:-1,Test_r740_ch2/1080
+https://edge2a.v2h-cdn.com/test-r740/ch2_1080/playlist.m3u8
+
