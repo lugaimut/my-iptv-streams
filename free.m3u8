@@ -4,6 +4,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 #EXTINF:-1,5hd
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+#EXTINF:-1,5hd_main
+http://147.50.195.35:1935/tv5hdlive/tv5hdlive/playlist.m3u8
+
 #EXTINF:-1,tsport
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1,tptv
@@ -51,4 +54,5 @@ https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
 
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1,boomerang
+
 http://96.30.124.114:1935/boomerang_partner/boomerang-partner.stream/playlist.m3u8
