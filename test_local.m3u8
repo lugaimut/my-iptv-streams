@@ -18,5 +18,6 @@ http://10.0.20.30:1935/live/CH5_main/playlist.m3u8
 http://10.0.20.30:1935/live/ch7/playlist.m3u8
 #EXTINF:-1,FHD_4M_tpbs
 http://10.0.20.30:1935/live/tpbs/playlist.m3u8
-
+#EXTINF:-1,ABR_3P_CH5
+http://10.0.20.30:1935/live/smil:amarin_abr.smil/playlist.m3u8
 
