@@ -68,12 +68,6 @@ http://96.30.124.114:1935/RE_freetv/NEW.stream_720p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Mangkorn.th" tvg-name="Mangkorn" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0159.png",Mangkorn
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-chno="22" tvg-id="Nation TV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0021.png",Nation TV
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 http://96.30.124.114:1935/RE_freetv/Nation.stream_720p/playlist.m3u8
@@ -140,5 +134,6 @@ rtmp://96.30.124.114:1935/J2Mvtv/Sun.stream_720p
 rtmp://96.30.124.114:1935/J2Mvtv/Sanook.stream_720p
 #EXTINF:-1,Samurai
 rtmp://96.30.124.114:1935/J2Mvtv/Samurai.stream_720p
+
 
 
