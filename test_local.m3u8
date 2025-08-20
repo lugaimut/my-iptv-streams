@@ -19,27 +19,27 @@ http://10.0.20.30:1935/live/ch7/playlist.m3u8
 #EXTINF:-1,FHD_4M_tpbs
 http://10.0.20.30:1935/live/tpbs/playlist.m3u8
 #EXTINF:-1,online_amarin
-http://96.30.124.116:1935/harmonic-test/amarin/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/amarin/playlist.m3u8
 #EXTINF:-1,online_one
-http://96.30.124.116:1935/harmonic-test/one/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/one/playlist.m3u8
 #EXTINF:-1,online_ch5
-http://96.30.124.116:1935/harmonic-test/ch5/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/ch5/playlist.m3u8
 #EXTINF:-1,online_ch7
-http://96.30.124.116:1935/harmonic-test/ch7/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/ch7/playlist.m3u8
 #EXTINF:-1,online_thairath
-http://96.30.124.116:1935/harmonic-test/thairath/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/thairath/playlist.m3u8
 #EXTINF:-1,online_tpbs
-http://96.30.124.116:1935/harmonic-test/tpbs/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/tpbs/playlist.m3u8
 #EXTINF:-1,online_pptv
-http://96.30.124.116:1935/harmonic-test/pptv/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/pptv/playlist.m3u8
 #EXTINF:-1,online_MCOT
-http://96.30.124.116:1935/harmonic-test/MCOT/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/MCOT/playlist.m3u8
 #EXTINF:-1,online_nbt
-http://96.30.124.116:1935/harmonic-test/nbt/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/nbt/playlist.m3u8
 #EXTINF:-1,online_ch3
-http://96.30.124.116:1935/harmonic-test/ch3/playlist.m3u8
-#EXTINF:-1,online_ABR_NBT
-http://edge2a.v2h-cdn.com/harmonic-test/smil:nbt-2p.smil/playlist.m3u8
+https://edge2a.v2h-cdn.com/harmonic-test/ch3/playlist.m3u8
+
+
 
 
 
