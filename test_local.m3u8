@@ -22,6 +22,10 @@ http://10.0.20.30:1935/live/tpbs/playlist.m3u8
 http://96.30.124.116:1935/harmonic-test/amarin/playlist.m3u8
 #EXTINF:-1,online_one
 http://96.30.124.116:1935/harmonic-test/one/playlist.m3u8
+#EXTINF:-1,online_ch5
+http://96.30.124.116:1935/harmonic-test/ch5/playlist.m3u8
+#EXTINF:-1,online_ch7
+http://96.30.124.116:1935/harmonic-test/ch7/playlist.m3u8
 
 
 
