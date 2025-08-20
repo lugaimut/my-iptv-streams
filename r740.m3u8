@@ -32,24 +32,10 @@ http://96.30.124.114:1935/RE_freetv/tsport7.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="Channel 8.th" tvg-name="Channel 8" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/8.jpg",Channel 8
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="BOX FILM.th" tvg-name="BOX FILM" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/box-flim.png",BOX FILM
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 rtmp://96.30.124.114:1935/J2Mvtv/boxfilm.stream_720p
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-chno="16" tvg-id="TNN.th" tvg-name="TNN" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R2_0053.png",TNN
