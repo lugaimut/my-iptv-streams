@@ -126,14 +126,14 @@ http://96.30.124.114:1935/RE_freetv/7HD.stream_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 http://96.30.124.114:1935/RE_freetv/PPTV.stream_720p/playlist.m3u8
 
-#EXTINF:-1,Ftv
-rtmp://96.30.124.114:1935/J2Mvtv/Ftv.stream_720p
+
 #EXTINF:-1,Sun
 rtmp://96.30.124.114:1935/J2Mvtv/Sun.stream_720p
 #EXTINF:-1,Sanook
 rtmp://96.30.124.114:1935/J2Mvtv/Sanook.stream_720p
 #EXTINF:-1,Samurai
 rtmp://96.30.124.114:1935/J2Mvtv/Samurai.stream_720p
+
 
 
 
