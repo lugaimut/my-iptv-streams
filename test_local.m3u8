@@ -38,6 +38,8 @@ http://96.30.124.116:1935/harmonic-test/MCOT/playlist.m3u8
 http://96.30.124.116:1935/harmonic-test/nbt/playlist.m3u8
 #EXTINF:-1,online_ch3
 http://96.30.124.116:1935/harmonic-test/ch3/playlist.m3u8
+#EXTINF:-1,online_ABR_NBT
+http://edge2a.v2h-cdn.com/harmonic-test/smil:nbt-2p.smil/playlist.m3u8
 
 
 
