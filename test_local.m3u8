@@ -36,6 +36,9 @@ http://96.30.124.116:1935/harmonic-test/pptv/playlist.m3u8
 http://96.30.124.116:1935/harmonic-test/MCOT/playlist.m3u8
 #EXTINF:-1,online_nbt
 http://96.30.124.116:1935/harmonic-test/nbt/playlist.m3u8
+#EXTINF:-1,online_ch3
+http://96.30.124.116:1935/harmonic-test/ch3/playlist.m3u8
+
 
 
 
