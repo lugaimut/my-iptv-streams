@@ -39,6 +39,9 @@ https://edge2a.v2h-cdn.com/harmonic-test/nbt/playlist.m3u8
 #EXTINF:-1,online_ch3
 https://edge2a.v2h-cdn.com/harmonic-test/ch3/playlist.m3u8
 
+#EXTINF:-1,nginx_ch3
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+
 
 
 
