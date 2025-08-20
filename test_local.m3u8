@@ -41,7 +41,8 @@ https://edge2a.v2h-cdn.com/harmonic-test/ch3/playlist.m3u8
 
 #EXTINF:-1,nginx_ch3
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
-
+#EXTINF:-1,114_ch3
+http://96.30.124.114:1935/RE_freetv/3HD.stream_720p/playlist.m3u8
 
 
 
