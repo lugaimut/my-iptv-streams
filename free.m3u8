@@ -12,7 +12,7 @@ http://96.30.124.114:1935/boomerang_partner/boomerang-partner.stream/playlist.m3
 
 
 
-#EXTINF:-1 tvg-chno="1" tvg-id="iptv.th" tvg-name="IPTV " group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png",IPTV THAILAND
+#EXTINF:-1 tvg-chno="1" tvg-id="iptv.th" tvg-name="IPTV " group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png",IPTV 
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 http://96.30.124.119:1935/vod/mp4:sample.mp4/playlist.m3u8
 
@@ -140,4 +140,5 @@ rtmp://96.30.124.114:1935/J2Mvtv/Sun.stream_720p
 rtmp://96.30.124.114:1935/J2Mvtv/Sanook.stream_720p
 #EXTINF:-1,Samurai
 rtmp://96.30.124.114:1935/J2Mvtv/Samurai.stream_720p
+
 
