@@ -25,7 +25,7 @@ https://load1.v2h-cdn.com/RE_freetv/TPBS.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-id="ALTV4.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ALTV.PNG",ALTV
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://load1.v2h-cdn.com/RE_freetv/ALTV_2024.stream_720p/playlist.m3u8
+https://load1.v2h-cdn.com/RE_Nginx_digital/digi_altv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="TV5 HD.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/ch5new.logo.png",TV5 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
@@ -101,6 +101,7 @@ rtmp://96.30.124.114:1935/J2Mvtv/Sun.stream_720p
 rtmp://96.30.124.114:1935/J2Mvtv/Sanook.stream_720p
 #EXTINF:-1,Samurai
 rtmp://96.30.124.114:1935/J2Mvtv/Samurai.stream_720p
+
 
 
 
