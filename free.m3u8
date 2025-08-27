@@ -101,6 +101,12 @@ rtmp://96.30.124.114:1935/J2Mvtv/Sun.stream_720p
 rtmp://96.30.124.114:1935/J2Mvtv/Sanook.stream_720p
 #EXTINF:-1,Samurai
 rtmp://96.30.124.114:1935/J2Mvtv/Samurai.stream_720p
+#EXTINF:-1,Samruge
+rtmp://96.30.124.114:1935/J2MvtvSD/sam.stream_720p
+#EXTINF:-1,animal
+rtmp://96.30.124.114:1935/J2MvtvSD/anami.stream_720p
+
+
 
 
 
