@@ -65,9 +65,7 @@ https://load1.v2h-cdn.com/RE_freetv/True4U.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM25" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",GMM25
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://load1.v2h-cdn.com/RE_freetv/GMM25.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="BOX FILM.th" tvg-name="BOX FILM" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/box-flim.png",BOX FILM
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
+
 #EXTINF:-1 tvg-chno="27" tvg-id="CH8.th" tvg-name="CH8" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",CH8
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://load1.v2h-cdn.com/RE_freetv/CH8.stream_720p/playlist.m3u8
@@ -106,6 +104,31 @@ rtmp://96.30.124.114:1935/J2MvtvSD/sam.stream_720p
 #EXTINF:-1,animal
 rtmp://96.30.124.114:1935/J2MvtvSD/anami.stream_720p
 
+
+#EXTM3U
+#EXTINF:0,Sansha TV
+#EXTVLCOPT:network-caching=1000
+udp://@224.0.14.1:1510
+
+#EXTM3U
+#EXTINF:0,Sahara One
+#EXTVLCOPT:network-caching=1000
+udp://@224.0.15.1:1510
+
+#EXTM3U
+#EXTINF:0,TMTV
+#EXTVLCOPT:network-caching=1000
+udp://@224.0.15.11:1510
+
+#EXTM3U
+#EXTINF:0,Yateem TV
+#EXTVLCOPT:network-caching=1000
+udp://@224.0.15.36:1510
+
+#EXTM3U
+#EXTINF:0,White Channel
+#EXTVLCOPT:network-caching=1000
+udp://@224.0.15.37:1510
 
 
 
