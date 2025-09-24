@@ -92,7 +92,7 @@ https://load1.v2h-cdn.com/RE_freetv/AmarinHD.stream_720p/playlist.m3u8
 https://load1.v2h-cdn.com/RE_freetv/7HD.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://load1.v2h-cdn.com/RE_freetv/PPTV.stream_720p/playlist.m3u8
+https://edge6a.v2h-cdn.com/hls/pptv.m3u8?uta=PTMmpWaHh2vrZBGAKNjxKA&expires=1758779055
 #EXTINF:-1,Sun
 rtmp://96.30.124.114:1935/J2Mvtv/Sun.stream_720p
 #EXTINF:-1,Sanook
@@ -129,6 +129,7 @@ udp://@224.0.15.36:1510
 #EXTINF:0,White Channel
 #EXTVLCOPT:network-caching=1000
 udp://@224.0.15.37:1510
+
 
 
 
