@@ -71,7 +71,7 @@ https://load1.v2h-cdn.com/RE_freetv/GMM25.stream_720p/playlist.m3u8
 https://load1.v2h-cdn.com/RE_freetv/CH8.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="MONO.th" tvg-name="MONO" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",MONO
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://load1.v2h-cdn.com/RE_freetv/Mono.stream_720p/playlist.m3u8
+https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://load1.v2h-cdn.com/RE_freetv/McotHD.stream_720p/playlist.m3u8
@@ -83,10 +83,10 @@ https://load1.v2h-cdn.com/RE_freetv/OneHD.stream_720p/playlist.m3u8
 https://load1.v2h-cdn.com/RE_freetv/ThairathHD.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",3 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://load1.v2h-cdn.com/RE_freetv/3HD.stream_720p/playlist.m3u8
+https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/AmarinTV_NEW512.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://load1.v2h-cdn.com/RE_freetv/AmarinHD.stream_720p/playlist.m3u8
+https://load1.v2h-cdn.com/digitaltv/amarin/playlist.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://load1.v2h-cdn.com/RE_freetv/7HD.stream_720p/playlist.m3u8
@@ -129,6 +129,7 @@ udp://@224.0.15.36:1510
 #EXTINF:0,White Channel
 #EXTVLCOPT:network-caching=1000
 udp://@224.0.15.37:1510
+
 
 
 
