@@ -90,46 +90,6 @@ https://load1.v2h-cdn.com/digitaltv/amarin/playlist.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://load1.v2h-cdn.com/RE_freetv/7HD.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://www.pptvhd36.com/api/live_player/program/1
-#EXTINF:-1,Sun
-rtmp://96.30.124.114:1935/J2Mvtv/Sun.stream_720p
-#EXTINF:-1,Sanook
-rtmp://96.30.124.114:1935/J2Mvtv/Sanook.stream_720p
-#EXTINF:-1,Samurai
-rtmp://96.30.124.114:1935/J2Mvtv/Samurai.stream_720p
-#EXTINF:-1,Samruge
-rtmp://96.30.124.114:1935/J2MvtvSD/sam.stream_720p
-#EXTINF:-1,animal
-rtmp://96.30.124.114:1935/J2MvtvSD/anami.stream_720p
-
-
-#EXTM3U
-#EXTINF:0,Sansha TV
-#EXTVLCOPT:network-caching=1000
-udp://@224.0.14.1:1510
-
-#EXTM3U
-#EXTINF:0,Sahara One
-#EXTVLCOPT:network-caching=1000
-udp://@224.0.15.1:1510
-
-#EXTM3U
-#EXTINF:0,TMTV
-#EXTVLCOPT:network-caching=1000
-udp://@224.0.15.11:1510
-
-#EXTM3U
-#EXTINF:0,Yateem TV
-#EXTVLCOPT:network-caching=1000
-udp://@224.0.15.36:1510
-
-#EXTM3U
-#EXTINF:0,White Channel
-#EXTVLCOPT:network-caching=1000
-udp://@224.0.15.37:1510
-
 
 #EXTM3U
 
@@ -192,6 +152,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ftv/ftv.m3u8
 
 #EXTINF:-1,zoomoo
 https://lb1-live-mv.v2h-cdn.com/hls/zoomoo/zoomoo.m3u8
+
 
 
 
