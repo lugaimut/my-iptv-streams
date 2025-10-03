@@ -131,6 +131,46 @@ udp://@224.0.15.36:1510
 udp://@224.0.15.37:1510
 
 
+#EXTINF:-1,arirang
+https://lb1-live-mv.v2h-cdn.com/hls/arirang/arirang.m3u8
+#EXTINF:-1,boxfilm
+https://lb1-live-mv.v2h-cdn.com/hls/boxfilm/boxfilm.m3u8
+#EXTINF:-1,dubaitv
+https://lb1-live-mv.v2h-cdn.com/hls/dubaitv/dubaitv.m3u8
+#EXTINF:-1,euronews
+https://lb1-live-mv.v2h-cdn.com/hls/euronews/euronews.m3u8
+#EXTINF:-1,abc_australia
+https://lb1-live-mv.v2h-cdn.com/hls/abc_australia/abc_australia.m3u8
+#EXTINF:-1,sanook
+https://lb1-live-mv.v2h-cdn.com/hls/sanook/sanook.m3u8
+#EXTINF:-1,thrill
+https://lb1-live-mv.v2h-cdn.com/hls/thrill/thrill.m3u8
+#EXTINF:-1,trace
+https://lb1-live-mv.v2h-cdn.com/hls/trace/trace.m3u8
+#EXTINF:-1,animal_m2
+https://lb1-live-mv.v2h-cdn.com/hls/animal_m2/animal_m2.m3u8
+#EXTINF:-1,chv
+https://lb1-live-mv.v2h-cdn.com/hls/chv/chv.m3u8
+#EXTINF:-1,dwtv
+https://lb1-live-mv.v2h-cdn.com/hls/dwtv/dwtv.m3u8
+#EXTINF:-1,kbs_korea
+https://lb1-live-mv.v2h-cdn.com/hls/kbs_korea/kbs_korea.m3u8
+#EXTINF:-1,global
+https://lb1-live-mv.v2h-cdn.com/hls/global/global.m3u8
+#EXTINF:-1,lotusmacau
+https://lb1-live-mv.v2h-cdn.com/hls/lotusmacau/lotusmacau.m3u8
+#EXTINF:-1,raitalia
+https://lb1-live-mv.v2h-cdn.com/hls/raitalia/raitalia.m3u8
+#EXTINF:-1,republictv
+https://lb1-live-mv.v2h-cdn.com/hls/republictv/republictv.m3u8
+#EXTINF:-1,sahara
+https://lb1-live-mv.v2h-cdn.com/hls/sahara/sahara.m3u8
+#EXTINF:-1,kuwait
+https://lb1-live-mv.v2h-cdn.com/hls/kuwait/kuwait.m3u8
+#EXTINF:-1,ftv
+https://lb1-live-mv.v2h-cdn.com/hls/ftv/ftv.m3u8
+#EXTINF:-1,zoomoo
+https://lb1-live-mv.v2h-cdn.com/hls/zoomoo/zoomoo.m3u8
 
 
 
