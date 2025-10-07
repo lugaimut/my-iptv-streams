@@ -166,8 +166,10 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,faratar_live
 https://ncdn.telewebion.com/faratar/live/playlist.m3u8
-#EXTINF:-1,star_plusone
-https://lb1-live-mv.v2h-cdn.com/hls/star_plusone/star_plusone.m3u8
+#EXTINF:-1,mov3
+
+https://lb1-live-mv.v2h-cdn.com/hls/mov3/mov3.m3u8
+
 
 
 
